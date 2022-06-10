@@ -7,7 +7,7 @@
 * phone number: +375(29) 6974675;
 * telegram name: it_dnk
 ### Information about me
-* I am 30. I work as an engineer, I want to study the skills of a WEB developer, and in the future to engage in this activity. We advised to start with Rolling Scopes School. I learned about Rolling Scopes School from friends, I liked the presentation of the material, the emphasis on practice and motivation, I decided to go towards my goal with your help. I'm sure everything will work out!
+* I am 31. I work as an engineer, I want to study the skills of a WEB developer, and in the future to engage in this activity. We advised to start with Rolling Scopes School. I learned about Rolling Scopes School from friends, I liked the presentation of the material, the emphasis on practice and motivation, I decided to go towards my goal with your help. I'm sure everything will work out!
 ### Skills
 * HTML;
 * CSS; 
