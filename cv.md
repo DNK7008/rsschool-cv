@@ -2,7 +2,7 @@
 # My CV #
 ***
 ### Name and surname
-* Soroko Denis
+* Soroko
 ### Contacts for communication
 * phone number: +375(29) 6974675;
 * telegram name: it_dnk
