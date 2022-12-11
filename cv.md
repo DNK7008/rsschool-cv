@@ -2,7 +2,7 @@
 # My CV #
 ***
 ### Name and surname
-* Soroko
+* Soroko Denis
 ### Contacts for communication
 * phone number: +375(29) 6974675;
 * telegram name: it_dnk
@@ -46,7 +46,7 @@ $tableData = '<tr>
     echo '<table border="1">' . $tableData . '</table>';
 }
 ```
-### Experience
+### Experienc
 * No work experience at the moment
 ### Education
 * higher education, engineer, management specialist
